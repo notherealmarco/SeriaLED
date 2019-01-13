@@ -39,3 +39,4 @@ light:
     payload_off: "OFF"
     retain: true
 ```
+_Replace "_your mqtt topic_" with the MQTT topic you chose._
