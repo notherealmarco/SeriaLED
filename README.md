@@ -12,6 +12,7 @@ A console will appear and ask you for:
 - Home Assistant MQTT broker's password
 - MQTT Topic to use
 - COM Port of the Arduino (you can easily find it in Arduino IDE).
+
 _The software will then run at Windows startup_
 
 ## Home Assistant configuration
